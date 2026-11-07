@@ -2,10 +2,10 @@
     "schema":  2,
     "channel":  "beta",
     "launcher":  {
-                     "version":  "0.9.28.0",
-                     "downloadUrl":  "https://github.com/tomaszsobecki5-collab/BlockCore-Updates/releases/download/v0.9.28/BlockCoreSetup.exe",
-                     "sha256":  "727C2AA5A5E9F2EA7A9FEB3553A8F1505AFA22D64D1CE9557C4BE49832147142",
-                     "sizeBytes":  52652579
+                     "version":  "0.9.30.0",
+                     "downloadUrl":  "https://github.com/tomaszsobecki5-collab/BlockCore-Updates/releases/download/v0.9.30/BlockCoreSetup.exe",
+                     "sha256":  "11C2C3DEFB9C95A6FD26ACD2D98F478E20EEDDEC75D05AE4EBF3C7BE9F23DA42",
+                     "sizeBytes":  52940029
                  },
     "clients":  [
                     {
