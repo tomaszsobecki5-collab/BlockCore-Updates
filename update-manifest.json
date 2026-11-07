@@ -1,0 +1,20 @@
+{
+    "schema":  2,
+    "channel":  "beta",
+    "launcher":  {
+                     "version":  "0.9.28.0",
+                     "downloadUrl":  "https://github.com/tomaszsobecki5-collab/BlockCore-Updates/releases/download/v0.9.28/BlockCoreSetup.exe",
+                     "sha256":  "727C2AA5A5E9F2EA7A9FEB3553A8F1505AFA22D64D1CE9557C4BE49832147142",
+                     "sizeBytes":  52652579
+                 },
+    "clients":  [
+                    {
+                        "minecraft":  "1.20.1",
+                        "loader":  "fabric",
+                        "version":  "0.10.20",
+                        "downloadUrl":  "https://github.com/tomaszsobecki5-collab/BlockCore-Updates/releases/download/v0.9.28/blockcore-client-1.20.1-0.10.20.jar",
+                        "sha256":  "41CD51B04C1446F11AD8D857110C5D9E128587C36AEFCD47336A9ABCC6E74632",
+                        "sizeBytes":  375375
+                    }
+                ]
+}
